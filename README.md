@@ -10,6 +10,7 @@
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=rumirinbrah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rumirinbrah&theme=dark&hide_border=false)<br/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# ⚡Checkout My Recent Medium Articles
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@atharvapajgade/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@atharvapajgade/0" alt="Recent Article 0">
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@atharvapajgade/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@atharvapajgade/1" alt="Recent Article 1">
 
