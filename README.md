@@ -23,3 +23,19 @@
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@atharvapajgade/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@atharvapajgade/0" alt="Recent Article 0">
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@atharvapajgade/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@atharvapajgade/1" alt="Recent Article 1">
 
+# My Projects
+## Owaru - A todo reminder application to manage your tasks
+![1](https://github.com/user-attachments/assets/36268525-bc6b-40a6-9164-e38ea88da10e)
+![2](https://github.com/user-attachments/assets/3e0e2010-601d-42be-88ac-140f08888267)
+![3](https://github.com/user-attachments/assets/c0797927-9ce8-4875-9a9a-5459d20cae31)
+![4](https://github.com/user-attachments/assets/74b10568-a1e1-414d-979e-fc03cb58c753)
+## Technology used -
+* HILT
+* Jetpack Compose
+* Kotlin
+* MVVM
+* Room Database
+
+
+
+
