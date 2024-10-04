@@ -41,7 +41,7 @@
 
 ![1](https://github.com/user-attachments/assets/55a35f1f-8933-492e-98bd-f5fc2973c5c3)
 ![2](https://github.com/user-attachments/assets/f214fd01-ffe6-4c66-beb7-77e0adca127c)
-![3](https://github.com/user-attachments/assets/ef84d49b-5fac-4009-8627-2eeffd706f65)
+![3](https://github.com/user-attachments/assets/b08c1d81-7c06-4aae-afc5-32f55ca62eb4)
 ## Technology used -
 * Kotlin
 * Jetpack Compose
