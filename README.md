@@ -1,5 +1,5 @@
 # 💫 About Me
-## Hey there, I'm Atharva 👋<br><br>- 🔭 I’m currently working on HillChoir, an online music streaming platform<br>- 🌱 I’ve been learning android development for the past 15 months<br>- 🎓 Third year student pursuing computer engineering at AISSMS COE Pune<br><br>- ⚡ My hobbies: Whenever I'm mentally stable and not coding ; I enjoy working out, playing guitar and going on treks
+## Hey there, I'm Atharva 👋<br><br>- 🔭 I’m currently working on HillChoir, an online music streaming platform<br>- 🌱 I’ve been learning android development for the past 9 months<br>- 🎓 Third year student pursuing computer engineering at AISSMS COE Pune<br><br>- ⚡ My hobbies: Whenever I'm mentally stable and not coding ; I enjoy working out, playing guitar and going on treks
 
 
 ## 🌐 Socials
