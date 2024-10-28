@@ -50,4 +50,5 @@
 * Firebase
 * Exoplayer
 <br>
-# <i>You can find more projects in my repos</i>
+
+<i>You can find more projects in my repos</i>
