@@ -49,4 +49,5 @@
 * MVVM
 * Firebase
 * Exoplayer
-
+<br>
+# <i>You can find more projects in my repos</i>
