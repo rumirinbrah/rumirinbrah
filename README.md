@@ -51,4 +51,4 @@
 * Exoplayer
 <br>
 
-<i>You can find more projects in my repos</i>
+<h2 style="font-size:100% style;"> <i>You can find more projects in my repos </i></h2>
