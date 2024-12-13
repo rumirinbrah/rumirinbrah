@@ -21,6 +21,7 @@
 
 # ⚡Checkout My Recent Medium Articles
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@atharvapajgade/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@atharvapajgade/0" alt="Recent Article 0">
+ <br>
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@atharvapajgade/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@atharvapajgade/1" alt="Recent Article 1">
 
 # My Projects
