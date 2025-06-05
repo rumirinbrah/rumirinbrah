@@ -1,5 +1,5 @@
 # 💫 About Me
-## Hey there, I'm Atharva, a Native Android Developer 👋<br><br>- 🔭 I’m currently learning backend with Ktor<br>- 🌱 I’ve been learning android development for the past 14 months<br>- 🎓 Third year student pursuing computer engineering at AISSMS COE Pune<br><br>- ⚡ My hobbies: Whenever I'm mentally stable and not coding ; I enjoy working out, playing guitar and documenting.
+## Hey there, I'm Atharva, a Native Android Developer 👋<br><br>- 🔭 I’m currently learning backend with Ktor<br>- 🌱 I’ve been learning android development for the past 14 months<br>- 🎓 Third year student pursuing computer engineering at AISSMS COE Pune<br><br>- ⚡ My hobbies: Whenever I'm mentally stable and not coding ; I enjoy working out, playing guitar and documenting.<br>- 📃Portfolio https://portfolio-atharva-pajgade.netlify.app/
 
 
 ## 🌐 Socials
