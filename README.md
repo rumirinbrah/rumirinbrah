@@ -39,6 +39,11 @@
 ![6](https://github.com/user-attachments/assets/2b3eceb9-3cd4-4dfb-812c-8d502399deaa)
 ![7](https://github.com/user-attachments/assets/7f4a367e-3b56-4426-9729-4ef22b67e6c6)
 Out soon...
+## Kiroku - An app to manage all your daily stories!
+![5](https://github.com/user-attachments/assets/f6b588bd-fcc5-498a-b652-8513d0465b2f)
+![6](https://github.com/user-attachments/assets/a6a323ea-a370-4482-8151-b6212185cac4)
+
+
 ## Owaru - A todo reminder application to manage your tasks
 ![1](https://github.com/user-attachments/assets/36268525-bc6b-40a6-9164-e38ea88da10e)
 ![2](https://github.com/user-attachments/assets/3e0e2010-601d-42be-88ac-140f08888267)
