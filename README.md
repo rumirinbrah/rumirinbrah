@@ -30,6 +30,15 @@
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@atharvapajgade/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@atharvapajgade/1" alt="Recent Article 1">
 
 # My Projects
+## Wandera - Your travel companion to manage all your adventures!
+![1](https://github.com/user-attachments/assets/b1483a41-988b-47e8-83b5-453fcc6cba0b)
+![2](https://github.com/user-attachments/assets/a43c3593-1148-4fac-b195-40f6adf9267c)
+![3](https://github.com/user-attachments/assets/d7645c7a-7f04-4109-8c64-793ed55436f0)
+![4](https://github.com/user-attachments/assets/3c3b34f8-8a8d-4089-abfc-876442fee879)
+![5](https://github.com/user-attachments/assets/c7f8f00a-6ce4-43f8-b0d9-d1a3e8c7658c)
+![6](https://github.com/user-attachments/assets/2b3eceb9-3cd4-4dfb-812c-8d502399deaa)
+![7](https://github.com/user-attachments/assets/7f4a367e-3b56-4426-9729-4ef22b67e6c6)
+Out soon...
 ## Owaru - A todo reminder application to manage your tasks
 ![1](https://github.com/user-attachments/assets/36268525-bc6b-40a6-9164-e38ea88da10e)
 ![2](https://github.com/user-attachments/assets/3e0e2010-601d-42be-88ac-140f08888267)
