@@ -30,46 +30,23 @@
  <br>
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@atharvapajgade/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@atharvapajgade/1" alt="Recent Article 1">
 
-# My Projects
-## Wandera - Your travel companion to manage all your adventures!
+# Some of my projects
+## 📸 Picky - An android image picker library <a href="https://github.com/rumirinbrah/Picky">Link</a>
+### Unlike the default image picker, Picky gives you access to persistable image URIs for device images. <br> It internally takes care of media permissions upto Android 16
+![Picky banner](https://github.com/user-attachments/assets/f7d752ab-707d-46cd-9e63-57472625cf0b)
+
+<br>
+<br>
+
+## 🕊️Wandera - Your travel companion to manage all your adventures!
 ![1](https://github.com/user-attachments/assets/b1483a41-988b-47e8-83b5-453fcc6cba0b)
-![2](https://github.com/user-attachments/assets/a43c3593-1148-4fac-b195-40f6adf9267c)
-![3](https://github.com/user-attachments/assets/d7645c7a-7f04-4109-8c64-793ed55436f0)
 ![4](https://github.com/user-attachments/assets/3c3b34f8-8a8d-4089-abfc-876442fee879)
 ![5](https://github.com/user-attachments/assets/c7f8f00a-6ce4-43f8-b0d9-d1a3e8c7658c)
 ![6](https://github.com/user-attachments/assets/2b3eceb9-3cd4-4dfb-812c-8d502399deaa)
 ![7](https://github.com/user-attachments/assets/7f4a367e-3b56-4426-9729-4ef22b67e6c6)
 Out soon...
-## Kiroku - An app to manage all your daily stories!
-![5](https://github.com/user-attachments/assets/f6b588bd-fcc5-498a-b652-8513d0465b2f)
-![6](https://github.com/user-attachments/assets/a6a323ea-a370-4482-8151-b6212185cac4)
 
-
-## Owaru - A todo reminder application to manage your tasks
-![1](https://github.com/user-attachments/assets/36268525-bc6b-40a6-9164-e38ea88da10e)
-![2](https://github.com/user-attachments/assets/3e0e2010-601d-42be-88ac-140f08888267)
-![3](https://github.com/user-attachments/assets/c0797927-9ce8-4875-9a9a-5459d20cae31)
-![4](https://github.com/user-attachments/assets/74b10568-a1e1-414d-979e-fc03cb58c753)
-## Technology used -
-* HILT
-* Jetpack Compose
-* Kotlin
-* MVVM
-* Room Database
-
-## HillChoir - An online music streaming platform
-![Thumbnail](https://github.com/user-attachments/assets/042395d7-30ad-4e3f-a16e-b2ee2ebc4150)
-
-![1](https://github.com/user-attachments/assets/55a35f1f-8933-492e-98bd-f5fc2973c5c3)
-![2](https://github.com/user-attachments/assets/f214fd01-ffe6-4c66-beb7-77e0adca127c)
-![3](https://github.com/user-attachments/assets/b08c1d81-7c06-4aae-afc5-32f55ca62eb4)
-## Technology used -
-* Kotlin
-* Jetpack Compose
-* HILT
-* MVVM
-* Firebase
-* Exoplayer
-<br>
+## Cryptify - A crypto tracking application with real time data & visualization charts!
+<img width="2400" height="1080" alt="Horizontal" src="https://github.com/user-attachments/assets/ef384935-c468-4197-8396-ff9fedc746c5" />
 
 <h2 style="font-size:100% style;"> <i>You can find more cool projects in my repos </i></h2>
